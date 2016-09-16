@@ -1,4 +1,4 @@
-package exception;
+package com.tano.exception;
 
 /**
  * Created by dinamix on 8/8/16.

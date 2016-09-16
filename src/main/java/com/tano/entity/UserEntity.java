@@ -1,12 +1,14 @@
-package entity;
+package com.tano.entity;
 
-import entity.pojo.User;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
+
+import com.tano.entity.pojo.User;
+
 import java.util.Date;
 
 @Data

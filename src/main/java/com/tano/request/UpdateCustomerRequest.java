@@ -1,4 +1,4 @@
-package request;
+package com.tano.request;
 
 import lombok.Data;
 

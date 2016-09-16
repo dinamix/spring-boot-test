@@ -1,4 +1,4 @@
-package exception.handler;
+package com.tano.exception.handler;
 
 import lombok.Data;
 
