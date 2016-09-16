@@ -1,10 +1,10 @@
-package dao;
+package com.tano.dao;
 
-import entity.UserEntity;
-import entity.pojo.User;
 import org.springframework.stereotype.Component;
 
-@Component
+import com.tano.entity.UserEntity;
+import com.tano.entity.pojo.User;
+
 public interface UserDao {
     User create(UserEntity user);
     User getUserById(String userId);
